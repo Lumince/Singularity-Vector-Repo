@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "modules": [
+    {
+      "id": "quest_settings_patcher",
+      "name": "Quest Settings Patcher",
+      "description": "Unhides Passthrough, Home, and Travel Mode, and hides Meta AI in Settings on supported Quest OS versions.",
+      "author": "Lumince",
+      "githubOwner": "Lumince",
+      "githubRepo": "Quest-Settings-Patcher",
+      "assetSuffix": ".apk",
+      "deviceFilter": null,
+      "packageName": "com.lumi.settingspatcher"
+    },
+    {
+      "id": "quest_navigator_mods",
+      "name": "Quest Navigator Mods",
+      "description": "Enhancements for the Meta Quest Navigator.",
+      "author": "OrfiDev",
+      "githubOwner": "OrfiDev",
+      "githubRepo": "QuestNavigatorMods",
+      "assetSuffix": ".apk",
+      "deviceFilter": null,
+      "packageName": "com.quest.navigatormods"
+    }
+  ]
+}
