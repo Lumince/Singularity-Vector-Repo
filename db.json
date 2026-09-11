@@ -13,6 +13,17 @@
       "packageName": "com.lumi.settingspatcher"
     },
     {
+      "id": "quest_services_patcher",
+      "name": "Quest Services Patcher",
+      "description": "Bypasses protected-package and protected-permission-prefix checks in services.jar.",
+      "author": "Lumince",
+      "githubOwner": "Lumince",
+      "githubRepo": "Quest-Services-Patcher",
+      "assetSuffix": ".apk",
+      "deviceFilter": null,
+      "packageName": "com.lumi.servicespatcher"
+    },
+    {
       "id": "quest_navigator_mods",
       "name": "Quest Navigator Mods",
       "description": "Enhancements for the Meta Quest Navigator.",
