@@ -33,6 +33,17 @@
       "assetSuffix": ".apk",
       "deviceFilter": null,
       "packageName": "com.quest.navigatormods"
+    },
+    {
+      "id": "horizon_overrides",
+      "name": "HorizonOverrides",
+      "description": "Set Horizon overrides yourself to enable features.",
+      "author": "OrfiDev",
+      "githubOwner": "OrfiDev",
+      "githubRepo": "HorizonOverrides",
+      "assetSuffix": ".apk",
+      "deviceFilter": null,
+      "packageName": "com.quest.horizonconfig"
     }
   ]
 }
