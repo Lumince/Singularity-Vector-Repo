@@ -9,7 +9,7 @@
       "githubOwner": "Lumince",
       "githubRepo": "Quest-Settings-Patcher",
       "assetSuffix": ".apk",
-      "deviceFilter": null,
+      "deviceFilter": "QUEST_2,QUEST_PRO,QUEST_3,QUEST_3S",
       "packageName": "com.lumi.settingspatcher"
     },
     {
@@ -20,7 +20,7 @@
       "githubOwner": "Lumince",
       "githubRepo": "Quest-Services-Patcher",
       "assetSuffix": ".apk",
-      "deviceFilter": null,
+      "deviceFilter": "QUEST_2,QUEST_PRO,QUEST_3,QUEST_3S",
       "packageName": "com.lumi.servicespatcher"
     },
     {
@@ -31,7 +31,7 @@
       "githubOwner": "OrfiDev",
       "githubRepo": "QuestNavigatorMods",
       "assetSuffix": ".apk",
-      "deviceFilter": null,
+      "deviceFilter": "QUEST_2,QUEST_PRO,QUEST_3,QUEST_3S",
       "packageName": "com.quest.navigatormods"
     },
     {
@@ -42,7 +42,7 @@
       "githubOwner": "OrfiDev",
       "githubRepo": "HorizonOverrides",
       "assetSuffix": ".apk",
-      "deviceFilter": null,
+      "deviceFilter": "QUEST_2,QUEST_PRO,QUEST_3,QUEST_3S",
       "packageName": "com.quest.horizonconfig"
     }
   ]
