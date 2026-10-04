@@ -24,6 +24,17 @@
       "packageName": "com.lumi.servicespatcher"
     },
     {
+      "id": "quest_ux_patcher",
+      "name": "Quest UX Patcher",
+      "description": "Customizes colors for SystemUX (Dock UI & Nav UI), raises the Dock pin limit to 10, shows battery percentage on the Dock, and keeps the Unknown Sources tab visible.",
+      "author": "Lumince",
+      "githubOwner": "Lumince",
+      "githubRepo": "Quest-UX-Patcher",
+      "assetSuffix": ".apk",
+      "deviceFilter": "QUEST_2,QUEST_PRO,QUEST_3,QUEST_3S",
+      "packageName": "com.lumi.uxpatcher"
+    },
+    {
       "id": "quest_navigator_mods",
       "name": "Quest Navigator Mods",
       "description": "Enhancements for the Meta Quest Navigator.",
