@@ -55,6 +55,17 @@
       "assetSuffix": ".apk",
       "deviceFilter": "QUEST_2,QUEST_PRO,QUEST_3,QUEST_3S",
       "packageName": "com.quest.horizonconfig"
+    },
+    {
+      "id": "quest_ime_pinyin",
+      "name": "Quest IME Pinyin",
+      "description": "为 Quest 系统输入法添加中文拼音输入。仅在 Quest 2 上实机测试，理论上适用于其他兼容设备，尚未验证。 Adds Chinese Pinyin input to the Quest system keyboard. Tested on Quest 2 only; expected to work on other compatible devices, but unverified.",
+      "author": "Powdered-Delta",
+      "githubOwner": "Powdered-Delta",
+      "githubRepo": "quest-ime-pinyin",
+      "assetSuffix": ".apk",
+      "deviceFilter": null,
+      "packageName": "com.m0e_n00b.questimepinyin"
     }
   ]
 }
